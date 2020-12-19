@@ -1,0 +1,18 @@
+q: 2
+q: 1
+q: 0
+input subArray1: 16 
+input subArray2: 13 
+output subArray: 13 16 
+input subArray1: 13 16 
+input subArray2: 0 
+output subArray: 0 13 16 
+q: 3
+input subArray1: 6 
+input subArray2: 7 
+output subArray: 6 7 
+input subArray1: 0 13 16 
+input subArray2: 6 7 
+output subArray: 0 6 7 13 16 
+The total CPU time: 0.155ms
+memory: 14004KB
